@@ -1,0 +1,1 @@
+For use with the Honorbuddy program, these XML files are hosted here for the many people who want an SVN update
